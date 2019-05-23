@@ -12,7 +12,7 @@ strains:
     code: https://github.com/asanso/helix-playground.git#master
     content: https://github.com/asanso/helix-playground.git#master
     static: https://github.com/asanso/helix-playground.git/htdocs#master
-    package: asanso/6b81e1e83f656fc822de6a52c7e8fc43cf000754
+    package: asanso/24fa410ca8daf105eaea299ab3f57f1a989a9686
 
   - name: oldcontent
     origin: https://asanso.github.io/
