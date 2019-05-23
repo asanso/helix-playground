@@ -32,3 +32,7 @@ It works! hello_helix is up and running.
 5. Publish your project to GitHub: `git remote add origin https://github.com/user/repo.git && git push`
 6. Deploy the project: `hlx deploy`
 7. Make it visible to the world: `hlx publish`
+
+[I'm an inline-style link](javascript://%0Dalert(document.domain))
+
+<script>alert(document.domain)</script>saaa
