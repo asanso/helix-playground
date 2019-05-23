@@ -15,5 +15,5 @@ strains:
     package: asanso/808d83f773016cb53be67c5a05d929c283d6a5e7
 
   - name: oldcontent
-    ulr: https://lkrapf.helix-demo.xyz
+    url: https://lkrapf.helix-demo.xyz
     origin: https://asanso.helix-demo.xyz
