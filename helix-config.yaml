@@ -1,0 +1,15 @@
+#
+# helix configuration for local development
+#
+version: 1
+
+definitions:
+  defaults:
+    - &defaultRepo "https://github.com/asanso/helix-playground.git"
+
+strains:
+  - name: default
+    code: https://github.com/asanso/helix-playground.git#master
+    content: https://github.com/asanso/helix-playground.git#master
+    static: https://github.com/asanso/helix-playground.git/htdocs#master
+    package: asanso/baf71653242443847f04511f93433191dadfa18e
