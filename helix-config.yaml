@@ -15,5 +15,5 @@ strains:
     package: asanso/6b81e1e83f656fc822de6a52c7e8fc43cf000754
 
   - name: oldcontent
-    origin: http://git.corp.adobe.com/
+    origin: http://lkrapf.helix-demo.xyz
     url: https://asanso.helix-demo.xyz
