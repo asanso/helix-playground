@@ -12,4 +12,5 @@ strains:
     code: https://github.com/asanso/helix-playground.git#master
     content: https://github.com/asanso/helix-playground.git#master
     static: https://github.com/asanso/helix-playground.git/htdocs#master
-    package: asanso/e98e41b3525ddfdd3291b58cb2ec3b2671ff1da4
+    package: asanso/65f646a4d82412da92c103e9f251e50373dd8323
+    directoryIndex: ../README.html
