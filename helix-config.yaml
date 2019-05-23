@@ -12,8 +12,8 @@ strains:
     code: https://github.com/asanso/helix-playground.git#master
     content: https://github.com/asanso/helix-playground.git#master
     static: https://github.com/asanso/helix-playground.git/htdocs#master
-    package: asanso/9361f14b7c42ca4b46264f9fa1cb8284948b5261
+    package: asanso/b48b356521d7c1ad94d7c0086c5bc6f43fa62552
 
   - name: oldcontent
     origin: https://asanso.helix-demo.xyz
-    url: https://asanso.helix-demo.xyz:a@asanso.helix-demo.xyz
+    url: https://asanso.helix-demo.xyz
